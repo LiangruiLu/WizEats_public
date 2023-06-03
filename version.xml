@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:2.0="version" xmlns:http://www.andymatuschak.org/xml-namespaces/sparkle="xmlns:sparkle">
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Your App Changelog</title>
     <item>

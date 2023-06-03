@@ -6,6 +6,7 @@
         <title>Version 0.9.0</title>
         <description>-----New Feature----- -Chat history with recipes you generated -Chat with multi chefs -Generate and customize the recipes of dishes you like in the community</description>
         <link>https://yourapp.com/download</link>
+        <sparkle:version>0.9.0</sparkle:version>
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
     </item>
   </channel>

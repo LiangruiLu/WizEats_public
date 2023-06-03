@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:http://www.andymatuschak.org/xml-namespaces/sparkle="sparkle" version="2.0">
+  <channel>
+    <title>Your App Changelog</title>
+    <item>
+      <title>Version 0.7.0</title>
+      <description>-----New Feature----- -Chat history with recipes you generated -Chat with multi chefs -Generate and customize the recipes of dishes you like in the community</description>
+      <pubDate>2023-06-03T02:52:18.609913Z</pubDate>
+      <link>https://yourapp.com/download</link>
+      <sparkle:tags>
+        <sparkle:criticalUpdate></sparkle:criticalUpdate>
+      </sparkle:tags>
+    </item>
+  </channel>
+</rss>

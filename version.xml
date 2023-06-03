@@ -1,32 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<rss xmlns:2.0="version" xmlns:http://www.andymatuschak.org/xml-namespaces/sparkle="xmlns:sparkle">
   <channel>
-      <title>For unit test only</title>
-      <item>
-        <title>Version 0.9.0</title>
-        <description>-----New Feature----- -Chat history with recipes you generated -Chat with multi chefs -Generate and customize the recipes of dishes you like in the community</description>
-        <pubDate>2023-06-03T02:52:18.609913Z</pubDate>
-        <link>https://yourapp.com/download</link>
-        <sparkle:tags>
-          <sparkle:criticalUpdate></sparkle:criticalUpdate>
-        </sparkle:tags>
-      <!-- The best chosen release -->
-      <item>
-        <title>Version 0.9.1</title>
-        <description>-----New Feature----- -Chat history with recipes you generated -Chat with multi chefs -Generate and customize the recipes of dishes you like in the community</description>
-        <pubDate>2023-06-03T02:52:18.609913Z</pubDate>
-        <link>https://yourapp.com/download</link>
-        <sparkle:tags>
-          <sparkle:criticalUpdate></sparkle:criticalUpdate>
-        </sparkle:tags>
-      <!-- A release testing minimumSystemVersion -->
-      <item>
-        <title>Version 0.9.2</title>
-        <description>-----New Feature----- -Chat history with recipes you generated -Chat with multi chefs -Generate and customize the recipes of dishes you like in the community</description>
-        <pubDate>2023-06-03T02:52:18.609913Z</pubDate>
-        <link>https://yourapp.com/download</link>
-        <sparkle:tags>
-          <sparkle:criticalUpdate></sparkle:criticalUpdate>
-        </sparkle:tags>
-    </channel>
+    <title>Your App Changelog</title>
+    <item>
+      <title>Version 0.7.0</title>
+      <description>-----New Feature----- -Chat history with recipes you generated -Chat with multi chefs -Generate and customize the recipes of dishes you like in the community</description>
+      <link>https://yourapp.com/download</link>
+      <sparkle:tags>
+        <sparkle:criticalUpdate/>
+      </sparkle:tags>
+    </item>
+  </channel>
 </rss>

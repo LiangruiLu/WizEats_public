@@ -3,10 +3,10 @@
   <channel>
     <title>For unit test only</title>
     <item>
-        <title>Version 0.9.0</title>
+        <title>Version 0.9.1</title>
         <description>-----New Feature-----\n
             -Chat history with recipes you generated\n -Chat with multi chefs\n -Generate and customize the recipes of dishes you like in the  community</description>
-        <enclosure url="https://www.wizeats.com/static/wizeats/app-release.apk" sparkle:version="0.9.0" sparkle:os="iOS" />
+        <enclosure url="https://www.wizeats.com/static/wizeats/app-release.apk" sparkle:version="0.9.1" sparkle:os="android" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
     </item>
   </channel>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>For unit test only</title>
+    <title>For Android version control only</title>
     <item>
-        <title>Version 0.9.1</title>
+        <title>Version 0.7.1</title>
         <description>-----New Feature-----\n
             -Chat history with recipes you generated\n -Chat with multi chefs\n -Generate and customize the recipes of dishes you like in the  community</description>
-        <enclosure url="https://www.wizeats.com/static/wizeats/app-release.apk" sparkle:version="0.9.1" sparkle:os="android" />
+        <enclosure url="https://www.wizeats.com/static/wizeats/app-release.apk" sparkle:version="0.7.1" sparkle:os="android" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
     </item>
   </channel>

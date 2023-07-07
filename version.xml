@@ -3,10 +3,13 @@
   <channel>
     <title>For Android version control only</title>
     <item>
-        <title>Version 0.7.1</title>
-        <description>-----New Feature-----\n
-            -Chat history with recipes you generated\n -Chat with multi chefs\n -Generate and customize the recipes of dishes you like in the  community</description>
-        <enclosure url="https://www.wizeats.com/static/wizeats/app-release.apk" sparkle:version="0.7.1" sparkle:os="android" />
+        <title>Version 0.7.3</title>
+        <description><![CDATA[-----New Feature-----
+        - Include emoji-icon in recipe's ingredients and steps to have more fun;
+        - Support in-app specific feedback for recipe responses and general feedback for the entire app;
+        - Support to view chat history by thread!
+        We are looking forward to more users' feedback!]]></description>
+        <enclosure url="https://www.wizeats.com/static/wizeats/app-release.apk" sparkle:version="0.7.3" sparkle:os="android" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
     </item>
   </channel>

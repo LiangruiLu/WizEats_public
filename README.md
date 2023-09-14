@@ -1,1 +1,1 @@
-# WizEats_public
+# Android version control for WizEats and Geward

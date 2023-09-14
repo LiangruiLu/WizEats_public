@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>For Android version control only</title>
+    <item>
+        <title>Version 0.7.4</title>
+        <description><![CDATA[-----WizEats 0.7.4-----
+        
+- Ordering Recommendation: Discover personalized meal suggestions! Chat with WizEats' official for expert recommendations.
+- Chat History Layout: Enjoy an improved chat history layout for a seamless conversation experience.
+- Email Login Support: Try new login option for added convenience.
+
+Thank you for choosing WizEats.]]></description>
+        <enclosure url="https://www.wizeats.com/static/wizeats/app-release.apk" sparkle:version="0.7.4" sparkle:os="android" />
+        <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
+    </item>
+  </channel>
+</rss>
